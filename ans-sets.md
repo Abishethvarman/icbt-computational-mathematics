@@ -1,4 +1,4 @@
-# Section B: Set Operations - Detailed Answers
+# Section B: Set Operations - Detailed Answers 
 
 ## 1. Venn Diagram Problem (Survey of 150 Students)
 
